@@ -156,7 +156,7 @@ Digital services agency for web development, SEO & digital marketing.
 </td>
 
 <td align="center" width="20%">
-<a href="https://www.instagram.com/fn_faizan_007">
+<a href="https://www.instagram.com/faizansharafat_">
 <img src="https://img.icons8.com/?size=48&id=32323&format=png" width="38" height="38" alt="Instagram"/>
 </a>
 <br/>
