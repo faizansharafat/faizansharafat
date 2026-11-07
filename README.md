@@ -41,19 +41,6 @@ I love turning ideas into real-world software and continuously improving my deve
 <img src="https://skillicons.dev/icons?i=git,github,vscode,react,mysql,linux,figma&perline=7" />
 
 </div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="assets/contribution.png" width="90%" alt="Custom Contribution Activity Graph"/>
-
-</div>
-
----
-
 ## 🚀 Featured Work
 
 <div align="center">
